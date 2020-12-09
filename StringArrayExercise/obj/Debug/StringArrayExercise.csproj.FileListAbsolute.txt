@@ -1,0 +1,7 @@
+D:\Education\Claim Academy\Week 1\StringArrayExercise\StringArrayExercise\bin\Debug\StringArrayExercise.exe.config
+D:\Education\Claim Academy\Week 1\StringArrayExercise\StringArrayExercise\bin\Debug\StringArrayExercise.exe
+D:\Education\Claim Academy\Week 1\StringArrayExercise\StringArrayExercise\bin\Debug\StringArrayExercise.pdb
+D:\Education\Claim Academy\Week 1\StringArrayExercise\StringArrayExercise\obj\Debug\StringArrayExercise.csprojAssemblyReference.cache
+D:\Education\Claim Academy\Week 1\StringArrayExercise\StringArrayExercise\obj\Debug\StringArrayExercise.csproj.CoreCompileInputs.cache
+D:\Education\Claim Academy\Week 1\StringArrayExercise\StringArrayExercise\obj\Debug\StringArrayExercise.exe
+D:\Education\Claim Academy\Week 1\StringArrayExercise\StringArrayExercise\obj\Debug\StringArrayExercise.pdb
